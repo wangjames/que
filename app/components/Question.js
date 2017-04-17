@@ -5,11 +5,11 @@ var Question = React.createClass({
     render : function()
     {
         return (
-        <div id="questionbox">
+   
             <p id="question">
                 {this.props.contents}
             </p>
-        </div>
+
         )
         
     }

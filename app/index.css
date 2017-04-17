@@ -1,0 +1,32 @@
+
+#container
+{
+ margin-top: 70px;
+ padding-top: 50px;
+ border-top: solid;
+
+ padding-bottom: 50px;
+}
+
+#questionbox
+{
+  
+  border-bottom: solid;
+  width: 800px;
+  margin-top: 1px;
+  margin-bottom: 25px;
+  
+}
+
+#answers
+{
+ 
+
+  padding: 0px;
+  list-style-type: none;
+}
+
+.option
+{
+  margin-bottom: 10px;
+}
